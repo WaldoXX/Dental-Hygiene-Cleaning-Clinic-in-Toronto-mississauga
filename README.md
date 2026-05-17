@@ -23,10 +23,10 @@ Services include:
 
 ## Featured Pages
 
-- [What Does Dental Cleaning Include](https://torontodentalcleaning.com/what-does-dental-cleaning-include/)
-- [How Often Should You Get Dental Cleaning](https://torontodentalcleaning.com/how-often-dental-cleaning/)
-- [Affordable Dental Cleaning Toronto](https://torontodentalcleaning.com)
-- [Dental Hygiene Services](https://torontodentalcleaning.com)
+- [Dental Hygiene Questions Answered by a Toronto Hygienist: Home Care, Sensitivity, and Gum Health](https://torontodentalcleaning.com/blog/dental-hygiene-questions-home-care-tips-toronto.html)
+- [Urgent Signs You Need a Dental Hygienist and How to Find One in Toronto](https://torontodentalcleaning.com/blog/urgent-dental-hygienist-toronto-new-patients.html)
+- [Top Dental Hygienist Clinics in Mississauga and How a Cleaning Actually Works]([https://torontodentalcleaning.com](https://torontodentalcleaning.com/blog/dental-hygienist-mississauga-how-cleaning-works.html))
+- [Can a Dental Hygienist Remove Tonsil Stones & Do Teeth Whitening?](https://torontodentalcleaning.com/blog/tonsil-stones-teeth-whitening-toronto.html)
 
 ## Benefits of Professional Dental Cleaning
 
@@ -37,9 +37,10 @@ Services include:
 - Improves overall oral hygiene
 - Helps detect dental issues early
 
-## Location
+## Locations
 
-Toronto, Ontario, Canada
+302 Spadina Ave, Unit #201, M5T 2E7, Chinatown, Toronto, Ontario, Canada
+274 Lakeshore Road East, L5G 1H1, Port Credit, Mississauga, Ontario, Canada
 
 ## Connect
 
